@@ -1,0 +1,2 @@
+webpackJsonp([10],{d83C:function(e,n,o){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var t={name:"AuthRedirect",created:function(){var e=window.location.search.slice(1);window.localStorage&&(window.localStorage.setItem("x-admin-oauth-code",e),window.close())},render:function(e){return e()}},l=o("VU/8")(t,null,!1,null,null,null);n.default=l.exports}});
+//# sourceMappingURL=10.8a367bac66c3b1a900d0.js.map
