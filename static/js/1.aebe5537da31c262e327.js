@@ -1,2 +1,0 @@
-webpackJsonp([1],{jTWc:function(e,t){},jijW:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"form"},[this._v("\n  this is a form!\n")])},staticRenderFns:[]};var s=n("VU/8")({name:"myForm"},r,!1,function(e){n("jTWc")},"data-v-5a7e8f28",null);t.default=s.exports}});
-//# sourceMappingURL=1.aebe5537da31c262e327.js.map
